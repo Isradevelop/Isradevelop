@@ -1,3 +1,4 @@
+```javascript
 const isradevelop = {
 technologies: {
     frontEnd: {
@@ -9,4 +10,4 @@ technologies: {
     },
     databases: ["mysql", "sql"]
   },
-
+  ```
