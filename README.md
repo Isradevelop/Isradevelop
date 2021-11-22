@@ -15,7 +15,7 @@ technologies: {
     },
     backEnd: {
       php: ["laravel", "symfony"],
-      js:["node"]
+      js: ["node"]
     },
     databases: ["mysql", "sql", "mongo"]
   },
