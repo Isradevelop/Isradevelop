@@ -14,7 +14,7 @@ technologies: {
       css: ["bootstrap"]
     },
     backEnd: {
-      php: ["laravel", "symfony"],
+      php: ["laravel", "symfony", "node],
     },
     databases: ["mysql", "sql"]
   },
