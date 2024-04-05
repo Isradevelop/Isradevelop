@@ -6,17 +6,17 @@
 
 ### A little more about me...  
 
-```javascript
+```
 const isradevelop = {
 technologies: {
     frontEnd: {
-      js: ["angular"],
-      css: ["bootstrap"]
+      js: ["Angular", "React", "Typescript"],
+      css: ["Bootstrap", "Angular Material", "Material UI"]
     },
     backEnd: {
-      php: ["laravel", "symfony"],
-      js: ["node"]
+      php: ["Laravel", "Symfony"],
+      js: ["Node"]
     },
-    databases: ["mysql", "sql", "mongo"]
+    databases: ["Mysql", "Sql", "Mongo", "Heidi"]
   },
   ```
